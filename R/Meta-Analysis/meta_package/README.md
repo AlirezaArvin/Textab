@@ -5,3 +5,13 @@ This script processes the output of meta-analysis objects generated using the {m
 3. Pulled effect size with 95% confidence intervall
 4. P-value of the pulled effect size
 5. I² statistic
+
+## Input
+The input file must be in .txt format and contain the content of a meta object. To generate this file, you can use the following code in R:  
+```R
+sink("output.txt")
+# Replace with the names of your meta objects
+meta_object_name
+sink()
+```
+This code exports the results of the meta-analysis stored in the meta objects to a .txt file named output.txt, which will be saved in your R working directory.
