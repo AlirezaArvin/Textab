@@ -13,4 +13,4 @@ We are at the start of a long journey. Numerous programming languages and statis
 
 ## Author
 Textab is created and maintained by:  
-Alireza Arvin (Arvinpili.alireza@gmail.com)
+**Alireza Arvin** (Arvinpili.alireza@gmail.com)
