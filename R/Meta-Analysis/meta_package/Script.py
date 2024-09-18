@@ -1,7 +1,7 @@
 import re
 import csv
 
-with open("Enter the path for your output text file here.") as f:
+with open("Enter the path for your txt file here.") as f:
     content = f.readlines()
     content = list(map(lambda x: x.strip(), content))
     titles = []
