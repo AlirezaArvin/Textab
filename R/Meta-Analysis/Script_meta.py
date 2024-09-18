@@ -15,10 +15,10 @@ with open("Enter the path for your output text file here.") as f:
     for i in range(0, len(content)):
         title = re.findall(r'^\w*:\s+(.+)', content[i])
         num = re.findall(r'Number of studies\: k \= (\d*)', content[i])
-        SMD = re.findall(r'R.+ (.+) \[.+\; .+\] .+  .+$', content[i])
-        SMD_LCI = re.findall(r'.+ .+ \[(.+)\; .+\] .+  .+$', content[i])
-        SMD_UCI = re.findall(r'.+ .+ \[.+\; (.+)\] .+  .+$', content[i])
-        P = re.findall(r'.+ .+ \[.+\; .+\] .+  (.+)$', content[i])
+        SMD = re.findall(r'.+\s+model\s+(.+)\s+\[.+\;\s+.+\]\s+.+\s+.+$', content[i])
+        SMD_LCI = re.findall(r'.+\s+model\s+.+\s+\[(.+)\;\s+.+\]\s+.+\s+.+$', content[i])
+        SMD_UCI = re.findall(r'.+\s+model\s+.+\s+\[.+\;\s+(.+)\]\s+.+\s+.+$', content[i])
+        P = re.findall(r'.+\s+model\s+.+\s+\[.+\;\s+.+\]\s+.+\s+(.+)$', content[i])
         I = re.findall(r'I\^2 = (.+%) \[.+\].+', content[i])
         if len(title) != 0:
             titles.append(title[0])
