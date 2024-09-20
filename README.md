@@ -1,5 +1,5 @@
 # Textab
-Textab is a set of Python scripts utilizing regular expressions (Regex) to extract key numerical data from text files. Today, many researchers use programming languages such as R to analyze data from their research projects, often generating output in text file format. Extracting key numerical statistics, such as effect size, p-values, and odds ratios, from these files can be time-consuming and challenging. With Textab, you can efficiently and easily extract essential statistics from the output of programming languages, significantly streamlining the process.
+Textab is a set of Python scripts utilizing regular expressions (Regex) to extract key statistics from text files. Today, many researchers use programming languages such as R to analyze data from their research projects, often generating output in txt file format. Extracting key statistics, such as effect size, p-values, and odds ratios, from these files can be time-consuming and challenging. With Textab, you can efficiently and easily extract essential statistics from the output of programming languages, significantly streamlining the process.
 
 ## Supported inputs
 **R:**  
