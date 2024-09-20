@@ -1,4 +1,4 @@
-## Examples  
+## Example  
 Below is the .txt-formatted output of meta-analyses conducted using the {meta} package in R and the table which is generated using a Textab script.
 
 ### R output
