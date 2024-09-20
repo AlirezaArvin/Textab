@@ -1,5 +1,5 @@
 ## Examples  
-below, you can see the .txt formatted output of meta-analyses resulted using {meta} package in R. By using a Textab script, the below table can be yield. 
+Below is the .txt-formatted output of meta-analyses conducted using the {meta} package in R and the table which is generated using a Textab script.
 
 ### R output
 ```
