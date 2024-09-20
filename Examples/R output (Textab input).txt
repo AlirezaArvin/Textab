@@ -1,0 +1,213 @@
+Review:     TA Muscle
+
+                         SMD             95%-CI %W(random)
+Zhang (2013)         -1.4372 [-2.1397; -0.7347]       10.9
+Shin (2019)          -4.8755 [-6.7666; -2.9845]        5.3
+Qiu (2020)           -4.3862 [-7.1103; -1.6622]        3.2
+Takeuchi (2021)      -1.5225 [-3.0209; -0.0240]        6.8
+Yu (2022)            -1.7546 [-2.5849; -0.9242]       10.2
+Cornelison (2018)    -0.5536 [-1.7163;  0.6090]        8.4
+Garcia Garcia (2023) -1.1066 [-2.3575;  0.1443]        8.0
+Garcia Garcia (2023) -2.3021 [-3.8867; -0.7175]        6.4
+Kim (2016)           -0.7771 [-1.8042;  0.2500]        9.1
+Vasudevan (2014)     -4.0760 [-6.3426; -1.8094]        4.2
+Hundepool (2017)     -1.2551 [-2.1437; -0.3665]        9.9
+Hundepool (2017)     -1.9892 [-2.9969; -0.9816]        9.2
+Philips (2018)       -0.8300 [-2.0301;  0.3702]        8.2
+
+Number of studies: k = 13
+Number of observations: o = 236 (o.e = 118, o.c = 118)
+
+                         SMD             95%-CI     t p-value
+Random effects model -1.7421 [-2.4713; -1.0129] -5.21  0.0002
+
+Quantifying heterogeneity:
+ tau^2 = 0.6340 [0.1981; 4.7344]; tau = 0.7962 [0.4450; 2.1759]
+ I^2 = 60.0% [26.6%; 78.3%]; H = 1.58 [1.17; 2.14]
+
+Test of heterogeneity:
+     Q d.f. p-value
+ 30.03   12  0.0028
+
+Details on meta-analytical method:
+- Inverse variance method
+- Restricted maximum-likelihood estimator for tau^2
+- Q-Profile method for confidence interval of tau^2 and tau
+- Hartung-Knapp adjustment for random effects model (df = 12)
+- Hedges' g (bias corrected standardised mean difference; using exact formulae)
+Review:     GC Muscle
+
+                         SMD             95%-CI %W(random)
+Qian (2022)          -4.6998 [-7.2313; -2.1683]        3.8
+Qiu (2020)           -4.3862 [-7.1103; -1.6622]        3.3
+Cornelison (2018)    -1.5660 [-2.9260; -0.2059]        9.0
+Garcia Garcia (2023) -3.3480 [-5.3185; -1.3775]        5.6
+Garcia Garcia (2023) -1.8738 [-3.3215; -0.4262]        8.4
+Kim (2016)           -0.7771 [-1.8042;  0.2500]       12.0
+Vasudevan (2014)     -4.0760 [-6.3426; -1.8094]        4.5
+Cai (2017)           -1.0765 [-2.3213;  0.1683]       10.0
+Chen (2019)          -1.2668 [-2.6906;  0.1571]        8.6
+Hundepool (2017)     -1.2551 [-2.1437; -0.3665]       13.5
+Hundepool (2017)     -1.9892 [-2.9969; -0.9816]       12.2
+Philips (2018)       -1.4879 [-2.8275; -0.1483]        9.2
+
+Number of studies: k = 12
+Number of observations: o = 168 (o.e = 84, o.c = 84)
+
+                         SMD             95%-CI     t p-value
+Random effects model -1.8486 [-2.5641; -1.1331] -5.69  0.0001
+
+Quantifying heterogeneity:
+ tau^2 = 0.3610 [0.0000; 4.5590]; tau = 0.6008 [0.0000; 2.1352]
+ I^2 = 49.8% [2.6%; 74.1%]; H = 1.41 [1.01; 1.97]
+
+Test of heterogeneity:
+     Q d.f. p-value
+ 21.91   11  0.0251
+
+Details on meta-analytical method:
+- Inverse variance method
+- Restricted maximum-likelihood estimator for tau^2
+- Q-Profile method for confidence interval of tau^2 and tau
+- Hartung-Knapp adjustment for random effects model (df = 11)
+- Hedges' g (bias corrected standardised mean difference; using exact formulae)
+Review:     CMAP
+
+                      SMD              95%-CI %W(random)
+Yu (2020)         -3.0128 [ -4.0602; -1.9653]        7.7
+Qian (2022)       -5.5328 [ -8.4289; -2.6367]        5.6
+Jiang (2016)       2.1021 [  0.5834;  3.6208]        7.3
+Qiu (2020)        -3.0106 [ -5.0863; -0.9349]        6.6
+Takeuchi (2021)   -2.1335 [ -3.8448; -0.4221]        7.1
+Yu (2022)         -2.0905 [ -2.9721; -1.2089]        7.8
+Chen (2019)       -9.3942 [-14.7352; -4.0533]        3.2
+Contreras (2022)  -5.3771 [ -8.5988; -2.1555]        5.3
+Contreras (2022)  -2.4405 [ -4.2730; -0.6080]        6.9
+Contreras (2022)  -3.8726 [ -6.1894; -1.5559]        6.3
+Hundepool (2017)  -1.2383 [ -2.1247; -0.3520]        7.8
+Hundepool (2017)  -0.8630 [ -1.7061; -0.0199]        7.9
+Contreras (2023)  -1.6560 [ -3.2178; -0.0942]        7.2
+Ji (2020)         -8.1158 [-11.0394; -5.1921]        5.6
+Sondell (Yu 2020) -3.8739 [ -5.0987; -2.6490]        7.6
+
+Number of studies: k = 15
+Number of observations: o = 259 (o.e = 130, o.c = 129)
+
+                         SMD             95%-CI     t p-value
+Random effects model -2.9389 [-4.3794; -1.4985] -4.38  0.0006
+
+Quantifying heterogeneity:
+ tau^2 = 4.8704 [2.2918; 17.7635]; tau = 2.2069 [1.5139; 4.2147]
+ I^2 = 84.2% [75.3%; 89.9%]; H = 2.51 [2.01; 3.14]
+
+Test of heterogeneity:
+     Q d.f.  p-value
+ 88.39   14 < 0.0001
+
+Details on meta-analytical method:
+- Inverse variance method
+- Restricted maximum-likelihood estimator for tau^2
+- Q-Profile method for confidence interval of tau^2 and tau
+- Hartung-Knapp adjustment for random effects model (df = 14)
+- Hedges' g (bias corrected standardised mean difference; using exact formulae)
+Review:     NCV
+
+                       SMD              95%-CI %W(random)
+Zhang (2013)       -2.6752 [ -3.5488; -1.8015]       10.2
+Yu (2020)          -1.6712 [ -2.4897; -0.8526]       10.2
+Boriani (2017)     -2.8243 [ -4.8183; -0.8303]        9.2
+Qian (2022)        -7.6401 [-11.4913; -3.7888]        6.9
+Jiang (2016)       -1.2473 [ -2.5285;  0.0340]        9.9
+Qiu (2020)         -4.5077 [ -7.2917; -1.7237]        8.2
+Takeuchi (2021)    -1.4946 [ -2.9845; -0.0047]        9.7
+Yu (2022)          -1.3587 [ -2.1369; -0.5804]       10.2
+Han (2019)         -0.3708 [ -1.3617;  0.6202]       10.1
+Ji (2020)         -13.9358 [-18.8048; -9.0668]        5.7
+Sondell (Yu 2020)  -4.2423 [ -5.5475; -2.9371]        9.8
+
+Number of studies: k = 11
+Number of observations: o = 226 (o.e = 113, o.c = 113)
+
+                         SMD             95%-CI     t p-value
+Random effects model -3.2516 [-5.5083; -0.9948] -3.21  0.0093
+
+Quantifying heterogeneity:
+ tau^2 = 7.4247 [3.5125; 43.0967]; tau = 2.7248 [1.8742; 6.5648]
+ I^2 = 84.4% [73.7%; 90.7%]; H = 2.53 [1.95; 3.29]
+
+Test of heterogeneity:
+     Q d.f.  p-value
+ 64.07   10 < 0.0001
+
+Details on meta-analytical method:
+- Inverse variance method
+- Restricted maximum-likelihood estimator for tau^2
+- Q-Profile method for confidence interval of tau^2 and tau
+- Hartung-Knapp adjustment for random effects model (df = 10)
+- Hedges' g (bias corrected standardised mean difference; using exact formulae)
+Review:     SFI
+
+                         SMD             95%-CI %W(random)
+Yu (2020)             0.9032 [ 0.1713;  1.6350]       18.2
+Yu (2022)            -1.1587 [-1.9146; -0.4028]       18.1
+Garcia Garcia (2023) -0.3793 [-1.5256;  0.7669]       15.5
+Garcia Garcia (2023)  0.8306 [-0.3697;  2.0308]       15.2
+Philips (2018)       -0.4306 [-1.5810;  0.7199]       15.5
+Sondell (Yu 2020)    -1.8622 [-2.7083; -1.0161]       17.5
+
+Number of studies: k = 6
+Number of observations: o = 132 (o.e = 66, o.c = 66)
+
+                         SMD            95%-CI     t p-value
+Random effects model -0.3709 [-1.5303; 0.7885] -0.82  0.4483
+
+Quantifying heterogeneity:
+ tau^2 = 1.0188 [0.2601; 6.8993]; tau = 1.0094 [0.5100; 2.6267]
+ I^2 = 84.2% [67.1%; 92.4%]; H = 2.51 [1.74; 3.62]
+
+Test of heterogeneity:
+     Q d.f.  p-value
+ 31.56    5 < 0.0001
+
+Details on meta-analytical method:
+- Inverse variance method
+- Restricted maximum-likelihood estimator for tau^2
+- Q-Profile method for confidence interval of tau^2 and tau
+- Hartung-Knapp adjustment for random effects model (df = 5)
+- Hedges' g (bias corrected standardised mean difference; using exact formulae)
+Review:     Myelin Thickness
+
+                         SMD              95%-CI %W(random)
+Wang (2015)          -0.4023 [ -1.6617;  0.8571]        9.0
+Boriani (2017)        0.3096 [ -0.9417;  1.5610]        9.1
+Qiu (2020)           -6.4080 [-10.1622; -2.6537]        4.3
+Takeuchi (2021)      -1.4163 [ -2.8826;  0.0500]        8.6
+Yu (2022)            -1.9468 [ -2.8058; -1.0879]        9.8
+Garcia Garcia (2023) -2.2418 [ -3.8062; -0.6774]        8.4
+Garcia Garcia (2023) -2.4618 [ -4.1011; -0.8224]        8.3
+Kim (2016)            0.1642 [ -0.8179;  1.1464]        9.6
+Vasudevan (2014)     -1.8097 [ -3.2382; -0.3811]        8.7
+Wakimura (2014)      -0.2968 [ -1.5472;  0.9536]        9.1
+Cai (2017)           -2.1399 [ -3.6707; -0.6090]        8.5
+Ji (2020)            -6.4456 [ -8.8279; -4.0633]        6.7
+
+Number of studies: k = 12
+Number of observations: o = 166 (o.e = 83, o.c = 83)
+
+                         SMD             95%-CI     t p-value
+Random effects model -1.7709 [-3.0285; -0.5133] -3.10  0.0101
+
+Quantifying heterogeneity:
+ tau^2 = 2.5831 [1.0792; 12.7006]; tau = 1.6072 [1.0389; 3.5638]
+ I^2 = 78.6% [63.2%; 87.6%]; H = 2.16 [1.65; 2.84]
+
+Test of heterogeneity:
+     Q d.f.  p-value
+ 51.51   11 < 0.0001
+
+Details on meta-analytical method:
+- Inverse variance method
+- Restricted maximum-likelihood estimator for tau^2
+- Q-Profile method for confidence interval of tau^2 and tau
+- Hartung-Knapp adjustment for random effects model (df = 11)
+- Hedges' g (bias corrected standardised mean difference; using exact formulae)
