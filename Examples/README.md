@@ -78,7 +78,7 @@ Details on meta-analytical method:
 ```
 ### Textab output
 
-| Title | Number of Studies | Pooled Effect Size (95% CI) | P-value | I2 |
+| Title | Number of Studies | Pooled Effect Size (95% CI) | P-value | I² |
 | :---- | :---------------- | :-------------------------- | :------ | :- |
 | TA Muscle | 13 | -1.7421 (-2.4713 - -1.0129) | 0.0002 | 60.0% |
 | GC Muscle | 12 | -1.8486 (-2.5641 - -1.1331) | 0.0001 | 49.8% |
